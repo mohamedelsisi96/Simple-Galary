@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.txt{
+    bottom: 5%;
+    left:5%;
+    right:5%;
+    background-color: white;
+    height: fit-content;
+}
+.screen{
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .6);
+}
+.layer{
+    
+    background-image: url(../pic/work-2.jpg);
+    background-size: cover;
+
+}
+.layer i{
+    cursor: pointer;
+}
